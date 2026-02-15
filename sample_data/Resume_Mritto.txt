@@ -1,0 +1,22 @@
+Mritto
+Java Developer
+
+Summary:
+Dedicated Java Developer with 4 years of experience in enterprise application development. Transitioning into Python and Data Science.
+
+Experience:
+Java Developer | Enterprise Systems Ltd. | 2020 - Present
+- Maintained legacy Java Spring Boot applications.
+- Implemented REST APIs for financial reporting modules.
+- Collaborated with frontend teams to integrate APIs.
+- Started learning Python for data analysis tasks.
+
+Junior Developer | SoftCo | 2018 - 2020
+- Assisted in developing Android applications using Java.
+- Fixed bugs and improved application performance.
+
+Skills:
+- Languages: Java, C++, Basic Python
+- Frameworks: Spring Boot, Hibernate
+- Databases: MySQL, Oracle
+- Tools: Eclipse, Maven, Git

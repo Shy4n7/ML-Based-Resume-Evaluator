@@ -1,0 +1,23 @@
+Job Title: Senior Python Software Engineer
+
+Role Overview:
+We are looking for a skilled Senior Python Software Engineer to join our backend team. You will be responsible for building scalable APIs, optimizing database queries, and integrating machine learning models into production.
+
+Key Reponsibilities:
+- Design and develop RESTful APIs using Flask or FastAPI.
+- Optimize database performance using SQL and SQLAlchemy.
+- Collaborate with data scientists to deploy NLP and ML models.
+- Write clean, testable, and efficient code.
+- Mentor junior developers and conduct code reviews.
+
+Requirements:
+- 5+ years of experience in Python development.
+- Strong proficiency in Flask, Django, or FastAPI.
+- Experience with Relational Databases (PostgreSQL, MySQL, SQLite).
+- Familiarity with Machine Learning libraries (scikit-learn, spaCy, NLTK).
+- Knowledge of containerization (Docker) and CI/CD pipelines.
+- Excellent problem-solving skills and attention to detail.
+
+Nice to Have:
+- Experience with cloud platforms (AWS, Azure, GCP).
+- Basic frontend knowledge (HTML, CSS, JavaScript).

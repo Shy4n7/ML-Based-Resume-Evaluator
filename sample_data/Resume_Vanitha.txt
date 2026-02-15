@@ -1,0 +1,24 @@
+Vanitha
+Senior Software Engineer
+
+Summary:
+Experienced Python Developer with a strong background in building scalable web applications and data pipelines. Passionate about AI/ML integration and backend optimization.
+
+Experience:
+Senior Backend Developer | Tech Solutions Inc. | 2019 - Present
+- Developed high-performance REST APIs using Flask and FastAPI, reducing response times by 30%.
+- Integrated machine learning models (scikit-learn) for predictive analytics.
+- Managed PostgreSQL databases and optimized complex SQL queries.
+- Deployed microservices using Docker and Kubernetes on AWS.
+
+Software Engineer | Innovate Corp | 2016 - 2019
+- Built internal tools using Python and Django.
+- implemented automated testing pipelines using PyTest.
+- Worked on data processing scripts using Pandas and NumPy.
+
+Skills:
+- Languages: Python, JavaScript, SQL
+- Frameworks: Flask, FastAPI, Django
+- Databases: PostgreSQL, SQLite, Redis
+- Tools: Docker, Git, Jenkins, AWS
+- Libraries: scikit-learn, spaCy, Pandas

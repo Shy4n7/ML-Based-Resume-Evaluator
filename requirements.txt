@@ -1,0 +1,10 @@
+flask
+scikit-learn
+spacy
+pdfplumber
+python-docx
+pandas
+sentence-transformers
+torch
+gunicorn
+
